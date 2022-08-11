@@ -1,0 +1,1 @@
+poetry run uvicorn fastapi_d.main:app --reload
