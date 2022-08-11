@@ -30,3 +30,5 @@ FastAPI stands on the shoulders of giants:
 https://fastapi.tiangolo.com/tutorial/background-tasks/
 
 uvicorn doc : https://www.uvicorn.org/
+
+SQLAlchemy doc : https://fastapi.tiangolo.com/tutorial/sql-databases/
