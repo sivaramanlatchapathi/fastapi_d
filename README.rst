@@ -15,3 +15,18 @@ drwxr-xr-x  4 siva  staff  128 Aug 10 11:13 tests
 
 
 poetry add fastapi 'uvicorn[standard]'
+
+
+FastAPI doc : https://fastapi.tiangolo.com/
+
+Reg:-
+
+Python 3.6+
+FastAPI stands on the shoulders of giants:
+
+    Starlette for the web parts.
+    Pydantic for the data parts.
+
+https://fastapi.tiangolo.com/tutorial/background-tasks/
+
+uvicorn doc : https://www.uvicorn.org/
